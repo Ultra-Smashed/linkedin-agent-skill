@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "total": 100,
+  "note": "Volle Punktzahl beschreibt, was auf dem Profil stehen muss. Ein großzügiger Score ist nutzlos.",
+  "items": [
+    {
+      "id": "headline",
+      "name": "Headline",
+      "points": 12,
+      "full_marks": "Sagt in bis zu 220 Zeichen, was die Person für wen tut, nennt einen Beleg und einen nächsten Schritt. Kein nackter Jobtitel. Die ersten Wörter sind nicht „Ich helfe“."
+    },
+    {
+      "id": "about_open",
+      "name": "About, erste zwei Zeilen",
+      "points": 10,
+      "full_marks": "Die ersten zwei Zeilen nennen, wem geholfen wird und was sich ändert. Kein „leidenschaftlich“, kein Lebenslauf in der dritten Person, kein Einstieg mit dem eigenen Namen."
+    },
+    {
+      "id": "about_body",
+      "name": "About, Rest",
+      "points": 10,
+      "full_marks": "In der Anrede der Zielgruppe: Problem, was die Person dagegen tut, ein Beleg mit Zahl, ein nächster Schritt. Unter 1.400 Zeichen."
+    },
+    {
+      "id": "featured",
+      "name": "Im Fokus",
+      "points": 8,
+      "full_marks": "Drei Einträge: der stärkste Post, ein Beweisstück, ein Weg zur Kontaktaufnahme."
+    },
+    {
+      "id": "banner",
+      "name": "Titelbild",
+      "points": 6,
+      "full_marks": "Ein Satz zur Positionierung und ein Kontaktweg. Kein Standard-Blau."
+    },
+    {
+      "id": "photo",
+      "name": "Foto",
+      "points": 6,
+      "full_marks": "Aktuelles Foto, Gesicht erkennbar, kein Logo und kein leerer Platzhalter."
+    },
+    {
+      "id": "current_role",
+      "name": "Aktuelle Rolle",
+      "points": 10,
+      "full_marks": "Rolle und Firma sind klar, die Beschreibung sagt den Umfang in einer Zeile und Ergebnisse mit Zahlen, keine Aufgabenliste."
+    },
+    {
+      "id": "experience_depth",
+      "name": "Erfahrung",
+      "points": 8,
+      "full_marks": "Die letzten Stationen haben Ergebnisse. Alles, was älter als zehn Jahre ist, steht in einer Zeile."
+    },
+    {
+      "id": "skills",
+      "name": "Kenntnisse",
+      "points": 6,
+      "full_marks": "Die Kenntnisse passen zu dem, was die Headline verspricht, und sind keine lange Liste von Werkzeugen."
+    },
+    {
+      "id": "recommendations",
+      "name": "Empfehlungen",
+      "points": 8,
+      "full_marks": "Mindestens zwei Empfehlungen, die ein Ergebnis beschreiben und nicht nur den Charakter loben."
+    },
+    {
+      "id": "activity",
+      "name": "Aktivität",
+      "points": 10,
+      "full_marks": "In den letzten vier Wochen liegen eigene Posts, und unter fremden Posts stehen Kommentare mit Inhalt."
+    },
+    {
+      "id": "contact",
+      "name": "Kontakt",
+      "points": 6,
+      "full_marks": "Ein Weg, die Person zu erreichen, ist ohne Suche sichtbar: Link, Fokus-Eintrag oder ein Satz im About."
+    }
+  ]
+}

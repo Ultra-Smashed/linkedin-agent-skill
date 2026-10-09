@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-agent",
+  "description": "Elf Claude-Skills für einen LinkedIn-Account auf Deutsch: Posts aus 21 Hook-Formeln, Kommentare, Antworten, Profil-Score, Wochenplan, DMs, Posteingang, Karussells, Repurpose, Audits und ein Humanizer, der den KI-Fingerabdruck entfernt und den Entwurf bewertet, bevor er rausgeht.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": ["linkedin", "content", "writing", "humanizer", "deutsch", "marketing"]
+}

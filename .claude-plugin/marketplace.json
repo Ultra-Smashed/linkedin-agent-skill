@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "linkedin-agent-skill",
+  "description": "Deutsche LinkedIn-Skills für Claude: schreiben, bewerten, nichts selbst posten.",
+  "owner": {
+    "name": "linkedin-agent"
+  },
+  "plugins": [
+    {
+      "name": "linkedin-agent",
+      "description": "Elf Claude-Skills für einen LinkedIn-Account auf Deutsch, inklusive eines Humanizers mit fünf lokalen Checks.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

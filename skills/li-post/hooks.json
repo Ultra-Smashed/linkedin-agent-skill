@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "note": "21 Formeln für die erste Zeile. Die Beispiele sind Schablonen mit erfundenen Szenen, keine Belege des Nutzers.",
+  "hooks": [
+    {
+      "id": 1,
+      "name": "Gegenposition",
+      "template": "{Verbreitete Annahme}. {Gegenbeleg aus der eigenen Arbeit}.",
+      "example": "Mehr Ausschreibungen bringen bessere Partner. Bei unserem letzten Bau haben 4 gezielte Anfragen mehr gebracht als 30 offene.",
+      "best_for": "Eine Meinung, die ein Teil der Zielgruppe für falsch hält.",
+      "trap": "Die Gegenposition ist ein Wortspiel und hat keinen Beleg."
+    },
+    {
+      "id": 2,
+      "name": "Zahl zuerst",
+      "template": "{Zahl} {Einheit}. {Was sich dadurch geändert hat}.",
+      "example": "11 Nachfass-Mails in zehn Tagen. Danach haben wir die erste Mail auf fünf Zeilen gekürzt.",
+      "best_for": "Ein Ergebnis, das sich in einer Zahl sagen lässt.",
+      "trap": "Die Zahl ist gerundet, geliehen oder schöner als das, was passiert ist."
+    },
+    {
+      "id": 3,
+      "name": "Der Fehler",
+      "template": "{Zeitspanne} lang habe ich {Fehler} gemacht. Gekostet hat das {Preis}.",
+      "example": "Ein Jahr lang habe ich jedes Konzept mit drei Freigaben belegt. Die Kosten waren nicht die Stunden, sondern die Aufträge, die in der Wartezeit erkaltet sind.",
+      "best_for": "Eine eigene Fehlentscheidung mit einem Preis.",
+      "trap": "Der Fehler ist so klein, dass niemand etwas daraus mitnimmt."
+    },
+    {
+      "id": 4,
+      "name": "Vorher und nachher",
+      "template": "Vorher: {Zustand}. Nachher: {Zustand}.",
+      "example": "Vorher lag ein Text bei vier Leuten. Nachher zeichnet eine Person ab, und er geht am selben Tag raus.",
+      "best_for": "Eine Änderung, die man in zwei Zuständen zeigen kann.",
+      "trap": "Vorher und nachher unterscheiden sich nur im Adjektiv."
+    },
+    {
+      "id": 5,
+      "name": "Die Liste",
+      "template": "{Zahl} {Dinge}, die {konkretes Ergebnis}.",
+      "example": "5 Fragen, mit denen ein Kick-off in 25 Minuten klärt, wer entscheidet.",
+      "best_for": "Schritte, die der Leser in dieser Reihenfolge brauchen kann.",
+      "trap": "Die Liste ist eine Werkzeugkiste ohne eigene Reihenfolge und ohne eigene Erfahrung."
+    },
+    {
+      "id": 6,
+      "name": "Das Innenwissen",
+      "template": "Was {Zielgruppe} selten laut sagt: {Beobachtung}.",
+      "example": "Was Einkauf selten laut sagt: Der günstigste Anbieter gewinnt, sobald die anderen drei gleich klingen.",
+      "best_for": "Eine Beobachtung aus Gesprächen, die öffentlich kaum jemand formuliert.",
+      "trap": "Das Innenwissen ist ein Allgemeinplatz."
+    },
+    {
+      "id": 7,
+      "name": "Der Aufruf",
+      "template": "{Zielgruppe}: {eine konkrete Beobachtung über ihre Arbeit}.",
+      "example": "An Studio-Inhaber: Euer Angebot erklärt die Methode, bevor es sagt, was sich im ersten Monat ändert.",
+      "best_for": "Eine Zielgruppe, die den Satz auf sich beziehen kann.",
+      "trap": "Der Aufruf beschimpft und zeigt keine Szene."
+    },
+    {
+      "id": 8,
+      "name": "Die Fangfrage",
+      "template": "{Frage, deren ehrliche Antwort etwas kostet}?",
+      "example": "Wann hast du zuletzt einen Auftrag abgelehnt, weil die Abstimmung teurer war als die Arbeit?",
+      "best_for": "Eine Frage, die nur zu diesem Thema und dieser Zielgruppe passt.",
+      "trap": "Die Frage könnte unter jedem Post dieser Branche stehen."
+    },
+    {
+      "id": 9,
+      "name": "Szenenstart",
+      "template": "\"{Satz, den jemand gesagt hat}.\" {Was daran hing}.",
+      "example": "\"Können wir das noch freundlicher machen?\" Der Text war freundlich. Er war neun Absätze lang.",
+      "best_for": "Ein Moment mit einer Person, einem Satz und einer Folge.",
+      "trap": "Die Szene hat keinen Preis und kein Ende."
+    },
+    {
+      "id": 10,
+      "name": "Der Beleg",
+      "template": "Wir haben {Sache} gemacht. Herausgekommen ist {Zahl}.",
+      "example": "Wir haben das wöchentliche Statusmeeting gestrichen. Übrig geblieben sind 2 Stunden und eine Mail mit sechs Zeilen.",
+      "best_for": "Etwas, das der Nutzer getan hat und mit einer Zahl belegen kann.",
+      "trap": "Der Beleg ist eine Behauptung, und die Zahl fehlt."
+    },
+    {
+      "id": 11,
+      "name": "Der Mythos",
+      "template": "{Mythos}. Das hält, bis {Bedingung}.",
+      "example": "Tägliches Posten erzeugt Reichweite. Das hält, bis die erste Zeile austauschbar ist.",
+      "best_for": "Ein Satz, den die Branche wiederholt und der unter einer Bedingung kippt.",
+      "trap": "Der Mythos ist längst erledigt, und der Post erschlägt ihn trotzdem."
+    },
+    {
+      "id": 12,
+      "name": "Der Vergleich",
+      "template": "{Übliche Option} gegen {eigene Option}. {Was gewonnen hat}.",
+      "example": "Ein externer Redakteur für 3.200 Euro gegen einen Nachmittag mit vier alten Texten. Der Nachmittag hat die Stimme getroffen.",
+      "best_for": "Zwei echte Wege, von denen einer überraschend besser war.",
+      "trap": "Der Vergleich stellt einen Strohmann gegen das eigene Angebot."
+    },
+    {
+      "id": 13,
+      "name": "Die Erlaubnis",
+      "template": "Du darfst {etwas, das sich verboten anfühlt}.",
+      "example": "Du darfst einen Termin absagen, wenn die Tagesordnung nur aus Status besteht.",
+      "best_for": "Eine Entlastung, die zur Haltung des Nutzers passt.",
+      "trap": "Die Erlaubnis ist ein Kalenderspruch."
+    },
+    {
+      "id": 14,
+      "name": "Der Bruch",
+      "template": "{Erwartung}. {Was stattdessen passiert ist}.",
+      "example": "Ich wollte die Reihe retten. Ich habe sie nach Ausgabe 7 abgesetzt.",
+      "best_for": "Ein Moment, in dem die erwartete Handlung ausbleibt.",
+      "trap": "Der Bruch ist laut und nicht wahr."
+    },
+    {
+      "id": 15,
+      "name": "Die Warnung",
+      "template": "Wenn du {Handlung}, passiert {konkreter Schaden}.",
+      "example": "Wenn du den Preis in die erste Mail setzt, verhandelst du, bevor jemand das Problem beschrieben hat.",
+      "best_for": "Ein Fehler, den die Zielgruppe diese Woche machen kann.",
+      "trap": "Die Warnung droht und sagt nicht, woran man den Schaden erkennt."
+    },
+    {
+      "id": 16,
+      "name": "Gut und stark",
+      "template": "{Gute Version}. {Starke Version}.",
+      "example": "Ein gutes Angebot listet Leistungen. Ein starkes sagt, was sich in 30 Tagen beim Kunden ändert.",
+      "best_for": "Eine Unterscheidung, die der Leser an einem eigenen Stück prüfen kann.",
+      "trap": "Beide Seiten sind Komplimente, und niemand weiß, welche gilt."
+    },
+    {
+      "id": 17,
+      "name": "Zeitanker",
+      "template": "{Tätigkeit} hat {Dauer} gebraucht. Jetzt sind es {Dauer}.",
+      "example": "Die Monatsauswertung hat einen Freitag gebraucht. Jetzt sind es 40 Minuten am Montagmorgen.",
+      "best_for": "Eine Dauer, die sich sichtbar verkürzt oder verlängert hat.",
+      "trap": "Die Zeiten sind so rund, dass sie erfunden klingen."
+    },
+    {
+      "id": 18,
+      "name": "Die unbequeme Regel",
+      "template": "Bei uns gilt: {Regel, die Auftraggeber nicht hören wollen}.",
+      "example": "Bei uns gilt: Ohne eine benannte Person, die entscheidet, fangen wir nicht an.",
+      "best_for": "Eine Arbeitsregel, hinter der der Nutzer wirklich steht.",
+      "trap": "Die Regel ist eine AGB und kein Standpunkt."
+    },
+    {
+      "id": 19,
+      "name": "Die Lücke",
+      "template": "{Andeutung eines Ergebnisses}. {Die eine fehlende, konkrete Information}.",
+      "example": "Der Auftrag kam über einen Kommentar, nicht über die Website. Der Kommentar hatte 12 Wörter.",
+      "best_for": "Ein Ergebnis, dessen Ursache überraschend klein ist.",
+      "trap": "Die Lücke ist ein Köder, und der Post löst sie nicht ein."
+    },
+    {
+      "id": 20,
+      "name": "Der Absprung",
+      "template": "Ich habe {wertvolle Sache} aufgegeben. Geblieben ist {was besser wurde}.",
+      "example": "Ich habe den größten Retainer gekündigt. Geblieben ist eine Woche ohne drei Eskalationen vor neun.",
+      "best_for": "Etwas Wertvolles, das der Nutzer bewusst losgelassen hat.",
+      "trap": "Der Absprung klingt nach Heldentum und lässt den Preis weg."
+    },
+    {
+      "id": 21,
+      "name": "Der direkte Nutzen",
+      "template": "{Stück, das der Leser heute benutzen kann}.",
+      "example": "Unten stehen die vier Zeilen, mit denen ich eine verspätete Lieferung ankündige. Nimm sie mit.",
+      "best_for": "Ein Stück zum Mitnehmen: Fragen, Sätze, eine kurze Liste.",
+      "trap": "Der Nutzen kündigt das Stück an, und das Stück fehlt im Post."
+    }
+  ]
+}
