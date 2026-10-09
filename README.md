@@ -1,7 +1,7 @@
 # LinkedIn-Skills für Claude
 
 Elf Claude-Skills, die einen LinkedIn-Account auf Deutsch vorbereiten.
-Von [Christopher Thanisch](https://thanisch.co).
+Von [Christopher Thanisch](https://thanisch.co/wissen/guides/linkedin-agent-skill).
 Kostenlos, MIT, kein Konto, kein API-Schlüssel, nichts zu verbinden.
 
 Einer schreibt Posts aus 21 Hook-Formeln. Einer kommentiert fremde Posts.
@@ -131,8 +131,8 @@ templates/voice.md               deine Stimme. Zuerst ausfüllen.
 
 ## Über
 
-[Christopher Thanisch](https://thanisch.co) macht den klaren Einstieg in KI für den Arbeitsalltag: Systeme statt Hypes, mit Tools, Guides und einem Newsletter.
+[Christopher Thanisch](https://thanisch.co/wissen/guides/linkedin-agent-skill) macht den klaren Einstieg in KI für den Arbeitsalltag: Systeme statt Hypes, mit Tools, Guides und einem Newsletter.
 
 ## Lizenz
 
-MIT. Copyright (c) 2026 Christopher Thanisch. [thanisch.co](https://thanisch.co)
+MIT. Copyright (c) 2026 Christopher Thanisch. [Guide](https://thanisch.co/wissen/guides/linkedin-agent-skill)
