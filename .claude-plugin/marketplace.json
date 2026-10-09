@@ -3,7 +3,8 @@
   "name": "linkedin-agent-skill",
   "description": "Deutsche LinkedIn-Skills für Claude: schreiben, bewerten, nichts selbst posten.",
   "owner": {
-    "name": "linkedin-agent"
+    "name": "Christopher Thanisch",
+    "url": "https://thanisch.co"
   },
   "plugins": [
     {

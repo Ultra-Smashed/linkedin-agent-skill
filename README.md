@@ -1,6 +1,7 @@
 # LinkedIn-Skills für Claude
 
 Elf Claude-Skills, die einen LinkedIn-Account auf Deutsch vorbereiten.
+Von [Christopher Thanisch](https://thanisch.co).
 Kostenlos, MIT, kein Konto, kein API-Schlüssel, nichts zu verbinden.
 
 Einer schreibt Posts aus 21 Hook-Formeln. Einer kommentiert fremde Posts.
@@ -128,6 +129,10 @@ skills/li-profile/rubric.json    die 100-Punkte-Rubrik
 templates/voice.md               deine Stimme. Zuerst ausfüllen.
 ```
 
+## Über
+
+[Christopher Thanisch](https://thanisch.co) macht den klaren Einstieg in KI für den Arbeitsalltag: Systeme statt Hypes, mit Tools, Guides und einem Newsletter.
+
 ## Lizenz
 
-MIT.
+MIT. Copyright (c) 2026 Christopher Thanisch. [thanisch.co](https://thanisch.co)
