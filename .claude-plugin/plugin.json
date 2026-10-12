@@ -7,6 +7,7 @@
     "url": "https://thanisch.co/wissen/guides/linkedin-agent-skill"
   },
   "homepage": "https://thanisch.co/wissen/guides/linkedin-agent-skill",
+  "privacyPolicyUrl": "https://thanisch.co/datenschutz",
   "license": "MIT",
   "keywords": ["linkedin", "content", "writing", "humanizer", "deutsch", "marketing"]
 }
